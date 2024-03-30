@@ -1,12 +1,13 @@
 
 # Data Cleaning in Python
 
-The purpose of the project is to clean a dataset in preparation for Creating Visualizations and EDA
+The purpose of the project is to clean a dataset in preparation for [Creating Visuals](https://www.genome.gov/) and EDA
 
 
 ## Data Set Used
 
  - [Anime Dataset 2023](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset/data?select=anime-filtered.csv)
+
 ## Environment Used
 
 - VM inside of VS Code running ```Python3```
