@@ -19,26 +19,23 @@ The purpose of the project is to clean a dataset in preparation for Creating Vis
 
 - ```pandas```
 
-## Some Findings
+## Some code snippets and pictures of the cleaning process 
 
-- #### Number of...
-  - Males and Females who bought from each company
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-  - Cars that were sold from each company
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-  - Cars sold per Dealer Region
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-- #### Average
-  - Annual Income between Males and Females 
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-  - Price of a Car per Company
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-  - Price of a Car per Dealer Region
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-  - Price a Male and Female are paying for a car 
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-- #### Most Common Type of...
-  - Color bought
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-  - Body Style bought
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- ### Table BEFORE cleaning \
+![Table_Before_Drop_Columns](Images/Table_Before_Drop_Columns.png)
+- ### Table AFTER columns were \
+![Table_After_Drop_Columns](Images/Table_After_Drop_Columns.png)
+- ### Querying the "Premiered" column for "Unknown" values \
+![Premiered_Cols_Unk](Images/Premiered_Cols_Unk.png)
+- ### Table AFTER the "Premiered" column had been replaced by the "Season_Premiered" and	"Year_Premiered" column \
+![Year_Season_Cols](Images/Year_Season_Cols.png)
+- ### Table BEFORE the "Genres" column was trimmed \
+![Before_Genre_Trim](Images/Before_Genre_Trim.png)
+- ### Table AFTER the "Genres" column was trimmed \
+![After_Genre_Trim](Images/After_Genre_Trim.png)
+- ### Table BEFORE the "Rating" column was trimmed \
+![Before_Rating_Trim](Images/Before_Rating_Trim.png)
+- ### Table AFTER the "Rating" column was trimmed \
+![After_Rating_Trim](Images/After_Rating_Trim.png)
+- ### Table AFTER cleaning \
+![Final_Table](Images/Final_Table.png)
