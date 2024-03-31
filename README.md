@@ -1,7 +1,7 @@
 
 # Data Cleaning in Python
 
-The purpose of the project is to clean a dataset in preparation for [Creating Visuals](https://www.genome.gov/) and EDA
+The purpose of the project is to clean a dataset in preparation for [Creating Visuals](https://public.tableau.com/app/profile/joss.franco/viz/Anime_Review_Stats/Dashboard2) and EDA
 
 
 ## Data Set Used
