@@ -10,7 +10,7 @@ The purpose of the project is to clean a dataset in preparation for [Creating Vi
 
 ## Environment Used
 
-- VM inside of VS Code running ```Python3```
+- Virtual Environment inside of VS Code running ```Python3```
 
 - ```Jupyter Notebook``` inside of VS Code
 
